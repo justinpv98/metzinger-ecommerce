@@ -1,0 +1,1 @@
+export const imageHostURL = process.env.REACT_APP_IMAGE_HOST_URL
