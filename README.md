@@ -4,7 +4,7 @@
 
 <h2 align="center"><a href="https://metzinger.onrender.com/">Click for Live Demo</a></h2>
 
-**Metzinger** is a React web application that uses Redux Toolkit and PostgreSQL to emulate an e-commerce experience. It includes a fully functional cart from adding items to receiving order information, products filtered by category, a wishlist.
+**Metzinger** is a React web application that uses Redux Toolkit and PostgreSQL to emulate an e-commerce experience. It includes a fully functional cart from adding items to receiving order information, products filtered by category, and a wishlist.
 
 ### Table of Contents
 
