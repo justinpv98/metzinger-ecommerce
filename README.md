@@ -82,8 +82,8 @@ JWT_SECRET = [a custom jwt secret for web token authentication purposes]
 Clone the repo and install through your method of choice.
 
 ```
-$ git clone https://github.com/justinpv98/metzinger-shopping-cart.git
-$ cd metzinger
+$ git clone https://github.com/justinpv98/metzinger-ecommerce.git
+$ cd metzinger-ecommerce
 $ npm install
 ```
 
