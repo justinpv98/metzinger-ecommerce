@@ -83,6 +83,10 @@ function Product() {
   }
 
   function onAddToCartClick() {
+    if (!user?.id) {
+        navigate("/login")
+      }
+
     if (quantity > 0) {
       const cartItem = {
         cartId: cart.id,
